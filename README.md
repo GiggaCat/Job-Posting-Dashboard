@@ -6,7 +6,7 @@ A **Power BI dashboard** designed to analyze global job market trends, salaries,
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Screenshot](Screenshot_2025-11-24_150041.png)
+<img height="500px" src="Screenshot 2025-11-24 150041.png">
 
 ---
 
